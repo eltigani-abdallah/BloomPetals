@@ -1,0 +1,103 @@
+.mea-culpa-regular {
+    font-family: "Mea Culpa", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+body{
+    background-color: rgb(253, 248, 241);
+    font-family:'Delius';
+    
+}
+header{
+    background-color: gray;
+    height: 30px;
+    margin:-8px;
+    padding-top: 10px;
+    padding-left:10px
+    
+}
+
+nav{
+    display:flex;
+    justify-content: space-around;
+}
+
+h1{
+    display:flex;
+    justify-content:center;
+    font-family: 'Mea Culpa';
+    font-size:90px
+}
+
+#desc{
+    display:flex;
+    justify-content: center;
+    margin:50px
+}
+
+img{
+    
+    width: 150px;
+    height: 150px;
+    border: groove;
+    padding:10px;
+}
+
+.images{
+    display:flex;
+    justify-content: space-evenly;
+    margin-bottom:30px;
+    border-bottom: groove;
+    padding-bottom:50px;
+    margin-left:50px;
+    margin-right:50px;
+}
+
+
+
+.serviveSe{
+    display: flex;
+    justify-content:space-evenly;
+    margin:10%;
+    border-bottom: 1px, solid #000;
+    font-weight: 400;
+}
+
+.service2{
+    border-left: groove;
+    border-right:groove;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+article{
+    margin:10px
+}
+
+
+
+.imagesB{
+    display:flex;
+    justify-content: space-evenly;
+    margin-bottom:30px;
+    position:relative;
+    bottom: 50px;
+    border-top:groove;
+    padding-top:50px;
+    margin-left:50px;
+    margin-right:50px;
+}
+
+
+footer{
+    background-color: gray;
+    margin:-8px;
+    height: 30px;
+
+    display: flex;
+    justify-content:flex-end;
+}
+
